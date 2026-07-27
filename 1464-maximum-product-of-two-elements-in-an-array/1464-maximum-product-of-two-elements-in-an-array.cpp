@@ -1,10 +1,9 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        // sort(nums.begin(), nums.end());
-        int n = nums.size();
-        int max1 = INT_MIN;
-        int max2 = INT_MIN;
+       
+        int max1 = 0;
+        int max2 = 0;
         for(int x : nums){
             if(x>max1){
                 max2=max1;
