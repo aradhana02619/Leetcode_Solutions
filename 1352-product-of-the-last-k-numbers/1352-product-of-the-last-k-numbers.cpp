@@ -22,6 +22,7 @@
 
 
 class ProductOfNumbers {
+private:
     vector<long long>prefix;
 public:
     ProductOfNumbers() {
