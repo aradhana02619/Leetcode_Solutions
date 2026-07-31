@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
