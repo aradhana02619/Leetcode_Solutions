@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
