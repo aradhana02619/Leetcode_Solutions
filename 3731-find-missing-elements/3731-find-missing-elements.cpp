@@ -11,12 +11,10 @@ public:
         }
         
         vector<int>v;
-        unordered_map<int,int>mp;
-        for(int i=0; i<n; i++){
-            mp[nums[i]]++;
-        }
+        unordered_set<int>st(begin(nums), end(nums));
+        
         for(int i=mn; i<mx; i++){
-            if(!(mp.count(i))){
+            if(st.find(i)==st.end()){
                 v.push_back(i);
             }
         }
