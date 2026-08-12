@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -185,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
