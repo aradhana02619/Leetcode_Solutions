@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [3310-remove-methods-from-project](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
