@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
