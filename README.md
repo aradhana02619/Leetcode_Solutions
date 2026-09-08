@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
