@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
 |  |
