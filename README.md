@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
