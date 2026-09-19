@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0925-long-pressed-name](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0925-long-pressed-name](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0925-long-pressed-name) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
