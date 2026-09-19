@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0835-image-overlap) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aradhana02619/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
